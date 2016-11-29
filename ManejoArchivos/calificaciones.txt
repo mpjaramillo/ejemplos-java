@@ -1,0 +1,2 @@
+maria|jara|17,00|19,40
+carlos|toledo|17,30|19,00

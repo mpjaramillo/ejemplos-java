@@ -1,2 +1,1 @@
-100|200|UTPL|Loja
-300|1000|UNL|Quito
+1250|3000|utpl|loja
