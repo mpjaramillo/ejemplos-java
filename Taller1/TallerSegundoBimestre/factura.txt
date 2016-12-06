@@ -1,0 +1,15 @@
+	Comercial Ventas y Reventas
+
+Nombre: k
+Ciudad: a
+----------------------------
+Producto	Cantidad	Precio	
+Arroz		2			5,00
+Azucar		3			4,50
+Aceite		4			5,20
+Tallarines	2			3,00
+Sal			2			2,00
+-----------------------
+		Subtotal: 19,70
+		Iva 14: 2,76
+		Total: 22,46
